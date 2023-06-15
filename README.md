@@ -24,16 +24,20 @@ EKLENECEK
 
 ## Ürün Açıklaması
 
-
+  **Depola** ürünlerini güvenle saklamak isteyen ürün sahipleri ile deposunu boş tutmayıp değerlendirmek isteyen depo sahiplerini bir araya getirir.
+  Bu süreçte her iki tarafın da güvenliğini sağlamak için uygulama içinde iki faktörlü doğrulama seçeneği sunar. Boşta bekleyen depo ve bozulup atık haline gelme ihtimali olan ürünü buluşturan **Depola** çevresel sürdürülebilirliğe ve paylaşım ekonomisine katkı sunar. Her iki tarafın da güvenliği için kullandığı puanlama ve yorum sistemiyle kişilerin anlaşma ve teklif öncesi fikir edinmesini sağlar. 
 
 - **Uygulama birincil fonksiyonu**: 
-
+  - Her yıl uygun depo şartlarında bekletilemediği için israf olan ve atık haline gelen ürünlerin uygun şartlarda saklanmasına aracı olarak bu ürünlerin korunmasını ve atıkların azaltılmasına katkı sağlamak
 - **Uygulama ikincil fonksiyonu**: 
+  - Paylaşım ekonomisine kişileri dahil ederek atık ve atıl mekanların sayısını azaltarak çevresel sürdürülebilirliğe katkı sağlamak
 
 ## Ürün Özellikleri
 
 
 ## Hedef Kitle
+- Elindeki ürünleri depolamak için yer arayan ve bulamayan ürün sahipleri
+- Deposu halihazırda boşta duran ve değerlendirmek isteyen depo sahipleri
 
 
 ## Juriye Not
