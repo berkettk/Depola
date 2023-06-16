@@ -12,7 +12,7 @@ Takım Flutter 97
 - Necati Berke Tutak : Scrum Master
 - İlyas İlhan: Developer
 - Nur Musayev: Developer
-- Gökçe Karkın: Aktif Olmayan Üye
+- Gökçe Karkın: Developer
 
 ## Ürün İsmi
 
