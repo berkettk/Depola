@@ -16,7 +16,7 @@ Takım Flutter 97
 
 ## Ürün İsmi
 
---Depola--
+--**Depola**--
 
 ## Product Backlog URL
 
