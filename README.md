@@ -69,7 +69,7 @@ Takım Flutter 97
 
   
 - **Sprint Review**:
-   - 17 Haziran Cumartesi günü ekip üyelerinin katılımı ile toplantı yapılmış ve süreç gözden geçirilmiştir.
+  17 Haziran Cumartesi günü ekip üyelerinin katılımı ile toplantı yapılmış ve süreç gözden geçirilmiştir.
 
      Alınan Kararlar
    - Giriş yap ekranı ile ilgili sunulan öneri tartışıldı ve karara bağlandı.
