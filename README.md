@@ -46,7 +46,7 @@ Takım Flutter 97
 
 # Sprint 1
 
-- **Sprint Notları**: 
+- **Sprint Notları**: User story ve product backlog bağlantısı ikinci sprinte kadar kurulup detaylandırılacaktır. Şu an için ekran görüntüsüyle yetinilmiş ancak Trello-Miro entegrasyonu üzerine çalışılmaktadır.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
