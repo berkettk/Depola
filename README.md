@@ -24,12 +24,12 @@ Takım Flutter 97
 
 ## Ürün Açıklaması
 
- - **Depola** insanların sahip olduğu ürünleri güvenle saklayabileceği ve stoklayabileceği depo sahipleriyle buluşturmayı  hedefler. Bu aynı zamanda depo sahiplerine bir gelir olarak dönüşüm sağlar.  Ayrıca bu uygulamada depo sahiplerinin gönüllülüğü doğrultusunda ve müşteri talebine göre lojistik desteği sağlanır. Kullanıcılar uçtan uca şifreleme ile güvenle iletişim kurabilecek, iki faktörlü doğrulama seçeneği ile depolama yapabileceklerdir. Depola her ürüne uygun koşullarda depo bulur. Gıda, ilaç mermer, atıklar, stok takipli vb. ürünlere uygun depoları barındırır. Bununla beraber evsel ve çevresel atıktan uzak tutup bozulmaya uğrayabilecek ürünlerin özel koşullarda depolanmasıyla çevresel sürdürülebilirliğe ve paylaşım ekonomisine katkı sunar. 
+  **Depola** insanların sahip olduğu ürünleri güvenle saklayabileceği ve stoklayabileceği depo sahipleriyle buluşturmayı  hedefler. Bu aynı zamanda depo sahiplerine bir gelir olarak dönüşüm sağlar.  Ayrıca bu uygulamada depo sahiplerinin gönüllülüğü doğrultusunda ve müşteri talebine göre lojistik desteği sağlanır. Kullanıcılar uçtan uca şifreleme ile güvenle iletişim kurabilecek, iki faktörlü doğrulama seçeneği ile depolama yapabileceklerdir. Depola her ürüne uygun koşullarda depo bulur. Gıda, ilaç mermer, atıklar, stok takipli vb. ürünlere uygun depoları barındırır. Bununla beraber evsel ve çevresel atıktan uzak tutup bozulmaya uğrayabilecek ürünlerin özel koşullarda depolanmasıyla çevresel sürdürülebilirliğe ve paylaşım ekonomisine katkı sunar. 
     
-- **Uygulama birincil fonksiyonu**: 
- - Depolamaya ihtiyacı olan insanların ürünlerini saklayabilmesi ve stoklamasını sağlar. Bozulmaya uğrayabilecek ürünleri uygun koşullarda muhafaza eder. Aynı zamanda büyük çaplı ürün stoklamalarını elektronik depolarda işlevsel hale getirmeye yardımcı olur. Depo sahipleri alanlarının kullanımına göre ücret teklif eder ve anlaşmaya gidilir.
-- **Uygulama ikincil fonksiyonu**: 
- - Kullanıcılar kendilerinin ve çevresindekilerinin depo kullanımı gerektiren ürünlerini uygun koşullarda ve güvenli depolamalarını teşvik eder. Depo sahipleri ve müşterilerin her anlaşmasında puanlama yapılarak uygulama çerçevesinde ödüller kazanır.
+- **Uygulama birincil fonksiyonu**: Depolamaya ihtiyacı olan insanların ürünlerini saklayabilmesi ve stoklamasını sağlar. Bozulmaya uğrayabilecek ürünleri uygun koşullarda muhafaza eder. Aynı zamanda büyük çaplı ürün stoklamalarını elektronik depolarda işlevsel hale getirmeye yardımcı olur. Depo sahipleri alanlarının kullanımına göre ücret teklif eder ve anlaşmaya gidilir.
+
+- **Uygulama ikincil fonksiyonu**: Kullanıcılar kendilerinin ve çevresindekilerinin depo kullanımı gerektiren ürünlerini uygun koşullarda ve güvenli depolamalarını teşvik eder. Depo sahipleri ve müşterilerin her anlaşmasında puanlama yapılarak uygulama çerçevesinde ödüller kazanır.
+
 ## Ürün Özellikleri
  - Kullanıcıların konum bilgisine göre çevresindeki kullanıma açık depoları görmesi.
  - Boş depolarda hangi ürünlerin muhafaza edilebileceği veya stoklanabileceği hakkında kullanıcıya bilgi vermesi.
