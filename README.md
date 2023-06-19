@@ -46,6 +46,8 @@ Takım Flutter 97
 
 # Sprint 1
 
+- **Sprint Notları**: 
+
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 
@@ -54,7 +56,7 @@ Takım Flutter 97
   - İlk sprint için 100 puan; tasarım, database ve iki ekranın oluşturulması olarak her biri için 25'er puan olarak paylaştırıldı. İlk iki aşama tamamlandığı ve son iki aşama üzerinde çalışıldığı için bu sprintten 60 puan kazanıldığı kararlaştırıldı, çalışmaların hızlandırılması ve eksik puanların önümüzdeki haftalarda tamamlanması hedefleniyor.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının akademik yoğunluk kaynaklı sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de paylaşılmaktadır: [EKLENECEK]
+- **Daily Scrum**: Daily Scrum toplantılarının akademik yoğunluk kaynaklı sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de paylaşılmaktadır: [[Sprint 1 Daily Scrum Chats](https://docs.google.com/document/d/1BDmNh0hhT52njs3o-5RaoUzAEmbg9OljHNJiqA8UgBA/edit?usp=sharing)]
 
 - **Sprint board update**: Sprint board screenshot: 
 ![image](https://github.com/berkettk/Depola/assets/85964864/1f0bd08b-eb50-4f0e-9496-75707189ba21)
@@ -69,7 +71,7 @@ Takım Flutter 97
 
   
 - **Sprint Review**:
-  17 Haziran Cumartesi günü ekip üyelerinin katılımı ile toplantı yapılmış ve süreç gözden geçirilmiştir.
+  16 Haziran Cuma günü ekip üyelerinin katılımı ile toplantı yapılmış ve süreç gözden geçirilmiştir.
 
      Alınan Kararlar
    - Giriş yap ekranı ile ilgili sunulan öneri tartışıldı ve karara bağlandı.
