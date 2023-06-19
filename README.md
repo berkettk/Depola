@@ -68,7 +68,7 @@ Takım Flutter 97
       ![image](https://github.com/berkettk/Depola/assets/85964864/418ebbba-fb4b-4653-8358-db3ac57a6f35)
 
   
-  - **Sprint Review**:
+- **Sprint Review**:
    - 17 Haziran Cumartesi günü ekip üyelerinin katılımı ile toplantı yapılmış ve süreç gözden geçirilmiştir.
 
      Alınan Kararlar
