@@ -70,7 +70,8 @@ Takım Flutter 97
   
   - **Sprint Review**:
    - 17 Haziran Cumartesi günü ekip üyelerinin katılımı ile toplantı yapılmış ve süreç gözden geçirilmiştir.
-    Alınan Kararlar
+
+     Alınan Kararlar
    - Giriş yap ekranı ile ilgili sunulan öneri tartışıldı ve karara bağlandı.
    - Giriş yap ve kayıt ol ekranı için database tamamlandı, kullanıma hazır.
    - Akademik sebeplerle tamamlanması geciken giriş yap ve kayıt ol ekranlarının 23 Haziran Cuma gününe kadar %100 tamamlanması için çalışmaların hızlandırılması    kararlaştırıldı.
