@@ -57,9 +57,8 @@ Takım Flutter 97
 - **Daily Scrum**: Daily Scrum toplantılarının akademik yoğunluk kaynaklı sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de paylaşılmaktadır: [EKLENECEK]
 
 - **Sprint board update**: Sprint board screenshot: 
+![image](https://github.com/berkettk/Depola/assets/85964864/1f0bd08b-eb50-4f0e-9496-75707189ba21)
 
-      ![image](https://github.com/berkettk/Depola/assets/85964864/356e3d27-e60e-46f4-a50a-50256529d99f)
-      ![image](https://github.com/berkettk/Depola/assets/85964864/64124300-e2ae-49a4-a04c-462e2c3a6ba5)
 
 
 - **Ürün Durumu**:
