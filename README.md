@@ -87,34 +87,47 @@ Takım Flutter 97
 
 ## Product Backlog URL
 
-EKLENECEK
+[Flutter Team 97 Miro Backlog Board](https://miro.com/app/board/uXjVM93CpDA=/)
 
 ---
 
 # Sprint 2
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Sprint Notları**: Bu sprintte bayram tatili dolayısıyla daha çok tasarımsal ve mevcut kodun temize çekilmesi aşamalarına yoğunlaşılmıştır. Son sprintte çalışmaların hızlandırılması kararlaştırılmıştır.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 50 Puan
+
+    - İlk sprintte tamamlanamayan tasarım, database ve iki ekranın oluşturulması konusunda eksik kalan 40 puanlık görevler tamamlandı ve ilk sprintin 100 puanı kazanılmış oldu. İkinci sprint için tatil dolayısıyla hedeflenen puan 100'den 50'ye düşürüldü ve son sprintte çalışmalara hız verilmesi hedeflendi; bu 50 puan taslak tasarımların tamamlanması ve hazırlanan kodların düzenlenmesi temiz hale getirilmesi üzerinde her biri için 25'er puan olarak paylaştırıldı. Tüm ekranlar için tasarımlar MVP olarak kağıt üzerinde hazırlandı ve developer ekibi tarafından kodlar temize çekildi. Bu sprintten 50 puan kazanıldı.
+
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [EKLENECEK]
 
-- **Sprint board update**: Sprint board screenshotları: 
-
-
+- **Sprint board update**: Sprint board screenshot:
+![image](https://github.com/berkettk/Depola/assets/85964864/84912968-bafc-43af-8d2b-b2caa8e0c5cf)
+ 
 - **Ürün Durumu**: Ekran görüntüleri:
 
-- **Sprint Review**: 
-Alınan kararlar: 
+- ![image](https://github.com/berkettk/Depola/assets/85964864/74f516f2-3a17-41e7-9bed-5bed267a5e6d)
+
+
+- **Sprint Review**: Bayram dolayısıyla toplantı yapılmaması kararlaştırılmış, sprint süresince oluşturulan Whatsapp grubu üzerinden mesajlaşılarak iletişim kurulmuş ve kararlar alınmıştır.
+
+  Alınan Kararlar
+   - İlk iki sprint süresince sınavlar ve bayram tatili dolayısıyla kodlama konusunda hedeflenen ilerlemenin sağlanamadığı konusunda görüş birliğine varıldı. Son sprintteki 15 günlük sürede bu konulara yoğunlaşılması ve çalışmaların hızlandırılması konusunda ekip olarak ortak karar verildi.
+   - Uygulamaya konum üzerinden bulma seçeneği eklenebilirliğinin araştırılması önerilmiş ve üzerinde çalışılması kararlaştırılmıştır.
+
 
 - **Sprint Retrospective:**
 
-  - 
-
+  - 5 Mayıs tarihine kadar mevcut görevler üzerine çalışılması ve o tarihte son durumla ilgili güncelleme yapılıp yol haritasının güncellenmesi kararlaştırıldı.
+  - User story ve product backlog bağlantısı üzerine çalışılmaktadır, son sprintte hazır halde teslim edilmesi hedeflenmektedir.
+  
 
 ---
 
 ## Product Backlog URL
 
-EKLENECEK
+[Flutter Team 97 Miro Backlog Board](https://miro.com/app/board/uXjVM93CpDA=/)
 ---
 
 # Sprint 3
