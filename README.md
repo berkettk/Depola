@@ -109,6 +109,8 @@ Takım Flutter 97
 
 - ![image](https://github.com/berkettk/Depola/assets/85964864/74f516f2-3a17-41e7-9bed-5bed267a5e6d)
 
+- not: giriş yap ekranı hazır olup teknik aksaklıklar nedeniyle ekran görüntüsü elde edilememiştir, ilk fırsatta eklenecektir.
+
 
 - **Sprint Review**: Bayram dolayısıyla toplantı yapılmaması kararlaştırılmış, sprint süresince oluşturulan Whatsapp grubu üzerinden mesajlaşılarak iletişim kurulmuş ve kararlar alınmıştır.
 
