@@ -56,7 +56,7 @@ Takım Flutter 97
   - İlk sprint için 100 puan; tasarım, database ve iki ekranın oluşturulması olarak her biri için 25'er puan olarak paylaştırıldı. İlk iki aşama tamamlandığı ve son iki aşama üzerinde çalışıldığı için bu sprintten 60 puan kazanıldığı kararlaştırıldı, çalışmaların hızlandırılması ve eksik puanların önümüzdeki haftalarda tamamlanması hedefleniyor.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının akademik yoğunluk kaynaklı sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de paylaşılmaktadır: [[Sprint 1 Daily Scrum Chats](https://docs.google.com/document/d/1BDmNh0hhT52njs3o-5RaoUzAEmbg9OljHNJiqA8UgBA/edit?usp=sharing)]
+- **Daily Scrum**: Daily Scrum toplantılarının akademik yoğunluk kaynaklı sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word dosyası olarak Readme'de paylaşılmaktadır: [[Sprint 1 Daily Scrum Chats](https://docs.google.com/document/d/1BDmNh0hhT52njs3o-5RaoUzAEmbg9OljHNJiqA8UgBA/edit?usp=sharing)]
 
 - **Sprint board update**: Sprint board screenshot: 
 ![image](https://github.com/berkettk/Depola/assets/85964864/1f0bd08b-eb50-4f0e-9496-75707189ba21)
@@ -100,7 +100,7 @@ Takım Flutter 97
     - İlk sprintte tamamlanamayan tasarım, database ve iki ekranın oluşturulması konusunda eksik kalan 40 puanlık görevler tamamlandı ve ilk sprintin 100 puanı kazanılmış oldu. İkinci sprint için tatil dolayısıyla hedeflenen puan 100'den 50'ye düşürüldü ve son sprintte çalışmalara hız verilmesi hedeflendi; bu 50 puan taslak tasarımların tamamlanması ve hazırlanan kodların düzenlenmesi temiz hale getirilmesi üzerinde her biri için 25'er puan olarak paylaştırıldı. Tüm ekranlar için tasarımlar MVP olarak kağıt üzerinde hazırlandı ve developer ekibi tarafından kodlar temize çekildi. Bu sprintten 50 puan kazanıldı.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [EKLENECEK]
+- **Daily Scrum**: Daily Scrum toplantılarının bayram ve zamansal yoğunluk sebebiyle ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır: [[Sprint 2 Daily Scrum Chats](https://docs.google.com/document/d/1VrpwxIWcPNNKtYOnKNU68TeeWxi8vedNjf1X8qpHRHM/edit?usp=sharing)]
 
 - **Sprint board update**: Sprint board screenshot:
 ![image](https://github.com/berkettk/Depola/assets/85964864/84912968-bafc-43af-8d2b-b2caa8e0c5cf)
@@ -132,7 +132,7 @@ Takım Flutter 97
 
 # Sprint 3
 
-- **Sprint içinde tamamlanması tahmin edilen puan**:
+- **Sprint içinde tamamlanması tahmin edilen puan**: 150 puan
 
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
