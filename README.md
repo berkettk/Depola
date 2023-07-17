@@ -147,7 +147,6 @@ Takım Flutter 97
 - ![image](https://github.com/berkettk/Depola/assets/85964864/f7998e53-2574-4a84-b2c9-8e0e2010ef6b)
 
 
-
 - **Ürün Durumu**: Ekran görüntüleri:
   
   ![WhatsApp Image 2023-07-16 at 23 12 38](https://github.com/berkettk/Depola/assets/85964864/f68ea08b-c9a3-42fa-9169-1b75167da85b)
@@ -156,11 +155,10 @@ Takım Flutter 97
 
 
 - **Sprint Review**: 
-Tamamlanan görevler: Anasayfa, ilan sayfası, kullanıcı profilleri ve giriş sayfası tamamlanmış olup uygulamaya teslime hazır hale getirilmiştir.
+  - Tamamlanan görevler: Anasayfa, ilan sayfası, kullanıcı profilleri ve giriş sayfası tamamlanmış olup uygulamaya teslime hazır hale getirilmiştir.
 
 - **Sprint Retrospective:**
 
   - Yoğun geçen son sprintin sonunda hedeflenen tüm çalışmalar ve aşamalar tamamlanmıştır. Uygulama kullanıma hazır. Bootcamp süreci başarıyla tamamlandı.
 
-
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
