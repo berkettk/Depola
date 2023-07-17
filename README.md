@@ -134,7 +134,7 @@ Takım Flutter 97
 
 # Sprint 3
 
-- **Sprint Notları**: Son sprintte çalışmalara planlandığı gibi hız verildi ve uygulama son haline getirildi. 
+- **Sprint Notları**: Son sprintte çalışmalara planlandığı gibi çalışmalara hız verildi ve uygulama son haline getirildi. 
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 150 puan
 
