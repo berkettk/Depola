@@ -138,6 +138,8 @@ Takım Flutter 97
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 150 puan
 
+- **Puan tamamlama mantığı**: Kalan tüm görevler ve yapılacak çalışmalar için önceki iki sprintte 150 puan toplandığından kalan 150 puanın kazanılması için eksik kalan tüm görevlerin başarıyla tamamlanması kıstas alınmıştır.
+
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
 
@@ -147,9 +149,9 @@ Takım Flutter 97
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-- ![WhatsApp Image 2023-07-16 at 23 12 38](https://github.com/berkettk/Depola/assets/85964864/f68ea08b-c9a3-42fa-9169-1b75167da85b)
-- ![WhatsApp Image 2023-07-17 at 01 08 07](https://github.com/berkettk/Depola/assets/85964864/c3994d13-01e6-41a9-95dc-9ef63016946a)
-- ![WhatsApp Image 2023-07-17 at 04 22 23](https://github.com/berkettk/Depola/assets/85964864/97341158-6c8c-47ad-b9e0-6546632a253e)
+  ![WhatsApp Image 2023-07-16 at 23 12 38](https://github.com/berkettk/Depola/assets/85964864/f68ea08b-c9a3-42fa-9169-1b75167da85b)
+  ![WhatsApp Image 2023-07-17 at 01 08 07](https://github.com/berkettk/Depola/assets/85964864/c3994d13-01e6-41a9-95dc-9ef63016946a)
+  ![WhatsApp Image 2023-07-17 at 04 22 23](https://github.com/berkettk/Depola/assets/85964864/97341158-6c8c-47ad-b9e0-6546632a253e)
 
 
 
