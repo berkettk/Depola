@@ -141,7 +141,7 @@ Takım Flutter 97
 - **Puan tamamlama mantığı**: Kalan tüm görevler ve yapılacak çalışmalar için önceki iki sprintte 150 puan toplandığından kalan 150 puanın kazanılması için eksik kalan tüm görevlerin başarıyla tamamlanması kıstas alınmıştır.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının akademik yoğunluk kaynaklı sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word dosyası olarak Readme'de paylaşılmaktadır: [[Sprint 1 Daily Scrum Chats](https://docs.google.com/document/d/1U6ZzI7qlkAiTJHrQaIS0b1yJI4QjwW-ewvbEzGdcsvk/edit?usp=sharing)]
+- **Daily Scrum**: Daily Scrum toplantılarının akademik yoğunluk kaynaklı sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word dosyası olarak Readme'de paylaşılmaktadır: [[Sprint 3 Daily Scrum Chats](https://docs.google.com/document/d/1U6ZzI7qlkAiTJHrQaIS0b1yJI4QjwW-ewvbEzGdcsvk/edit?usp=sharing)]
 
 - **Sprint board update**: Sprint board screenshot
 - ![image](https://github.com/berkettk/Depola/assets/85964864/f7998e53-2574-4a84-b2c9-8e0e2010ef6b)
