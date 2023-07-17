@@ -37,7 +37,7 @@ Takım Flutter 97
 
 
 
-## Hedef KitleMarket, dükkan sahibi kişiler 
+## Hedef Kitle
  - Ürün, eşya saklamaya alanı olmayanlar
  - Tedarikçiler 
  - Acil durum ürünleri(ilaç)( deprem gibi doğal afetlerde ürünlerin güvenlikle korunabilmesi)
