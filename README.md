@@ -155,7 +155,7 @@ Takım Flutter 97
 
 
 - **Sprint Review**: 
-  - Tamamlanan görevler: Anasayfa, ilan sayfası, kullanıcı profilleri ve giriş sayfası tamamlanmış olup uygulamaya teslime hazır hale getirilmiştir.
+  - Tamamlanan görevler: Anasayfa, ilan sayfası, kullanıcı profilleri, giriş sayfası ve kayıt ol ekranı tamamlanmış olup uygulama son haline getirilmiştir.
 
 - **Sprint Retrospective:**
 
